@@ -1,0 +1,7 @@
+interface:
+  display_name: "Scrollcraft"
+  short_description: "Premium scroll-driven website builder"
+  default_prompt: "Use $scrollcraft to design, build, and verify a bespoke scroll-driven landing page."
+
+policy:
+  allow_implicit_invocation: true
